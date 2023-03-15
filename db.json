@@ -5,18 +5,6 @@
       "name": "Gertrudis Tatterton",
       "age": 18,
       "email": "gtatterton0@ehow.com"
-    },
-    {
-      "id": 2,
-      "name": "Gail Newbatt",
-      "age": 53,
-      "email": "gnewbatt1@un.org"
-    },
-    {
-      "id": 3,
-      "name": "Walliw Wilstead",
-      "age": 49,
-      "email": "wwilstead2@tripadvisor.com"
-    }   
+    }
   ]
 }
