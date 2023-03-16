@@ -4,25 +4,48 @@
       "id": 1,
       "name": "Gertrudis Tatterton",
       "age": 18,
-      "email": "gtatterton0@ehow.com"
+      "email": "gtatterton0@ehow.com",
+      "password": "123456"
     },
     {
       "id": 2,
       "name": "Gail Newbatt",
       "age": 53,
-      "email": "gnewbatt1@un.org"
+      "email": "gnewbatt1@un.org",
+      "password": "123456"
     },
     {
       "id": 3,
       "name": "Walliw Wilstead",
       "age": 49,
-      "email": "wwilstead2@tripadvisor.com"
+      "email": "wwilstead2@tripadvisor.com",
+      "password": "123456"
     },
     {
       "id": 4,
       "name": "Abran Proback",
       "age": 29,
-      "email": "aproback3@theglobeandmail.com"
+      "email": "aproback3@theglobeandmail.com",
+      "password": "123456"
+    },
+    {
+      "email": "ayush@gmail.com",
+      "password": "123456",
+      "name": "ayush",
+      "id": 5
+    }
+  ],
+  "hotels": [
+    {
+      "category": "Delux",
+      "image_url": "https://assets.ajio.com/medias/sys_master/root/20210701/yDIT/60dd6f5ef997ddb31216ec83/-288Wx360H-460897549-grey-MODEL.jpg",
+      "type_of_room": "AC",
+      "bed_type": "Double",
+      "no_of_persons": "3",
+      "capacity": "Delux",
+      "cost": "456",
+      "booked": false,
+      "id": 1
     }
   ]
 }
